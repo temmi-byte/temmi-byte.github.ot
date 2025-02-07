@@ -1,0 +1,63 @@
+body {
+background-color:  rgb(67, 104, 214); 
+border-radius: 50px;
+}
+
+.ddd {
+background-color: black;
+position: absolute;
+margin-top: 150px;
+margin-left: 380px;
+padding-top: 50px;
+padding-bottom: 50px;
+padding-left: 10px;
+padding-right: 10px;
+border: 0;
+border-radius: 10px;
+}
+
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 500;
+font-weight: 700;
+color: rgb(228, 236, 243);
+margin-left:45px;
+}
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: 500;
+    color: rgb(228, 236, 243);
+}
+
+.btn {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 500;
+    font-weight: 500;
+    margin-top: 15px;
+    padding-left:115px ;
+    padding-right: 115px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background-color: rgb(67, 104, 214);
+    color: rgb(228, 236, 243);
+    border: 0cap;
+    border-radius: 5px;
+    cursor: pointer;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: 200;
+    color: rgb(228, 236, 243); 
+}
+
+input {
+width:250px;
+height: 20px;
+}
+
+.at {
+    text-decoration: none;
+    color:  rgb(67, 104, 214);
+}
